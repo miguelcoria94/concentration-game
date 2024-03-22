@@ -13,7 +13,7 @@ Link to demo: [Play Now](https://miguelcoria94.github.io/concentration-game/)
 
 
 
-![HomePage]([https://i.ibb.co/hC4PmZ1/Screenshot-2024-03-13-at-3-34-44-PM.png](https://i.ibb.co/NpHNdNg/Screenshot-2024-03-21-at-11-24-32-PM.png))
+![HomePage]([https://i.ibb.co/hC4PmZ1/Screenshot-2024-03-13-at-3-34-44-PM.png](https://i.ibb.co/NpHNdNg/Screenshot-2024-03-21-at-11-24-32-PM.png])
 ## Vision Board
 ![alt text](https://i.ibb.co/r71BkH5/Screenshot-2024-03-13-at-3-25-29-PM.png)
 
