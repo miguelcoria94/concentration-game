@@ -15,7 +15,7 @@ Link to demo: [Play Now](https://miguelcoria94.github.io/concentration-game/)
 
 <div id="header" align="center">
 
-  <img src="https://i.ibb.co/74w0S37/Screenshot-2024-03-21-at-11-27-54-PM.png" width="800" height="400">
+  <img src="https://i.ibb.co/CQkLKZy/Screenshot-2024-03-21-at-11-30-11-PM.png" width="800" height="400">
 
 </div>
 
