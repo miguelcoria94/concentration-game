@@ -36,6 +36,14 @@ Link to dribble: [glass design idea](https://dribbble.com/shots/23007404-Glass-m
 - Ability to Win/Lose 
 - Storing high score and highest streak in localstorage to preserver records
 
+## Next Steps
+
+- 100% Accessible
+- Improve Mobile Design
+- User Authentication
+- Leaderboards
+- Themes
+
 
 ## Tools and Technologies Used
 
