@@ -368,7 +368,7 @@ function playGameMusic() {
   waitingMusic.pause();
   setTimeout(() => {
     gameMusic.currentTime = 0;
-    gameMusic.volume = 0.5;
+    gameMusic.volume = 0.3;
     gameMusic.play();
   }, 1000);
 }
@@ -377,7 +377,7 @@ function playWaitingMusic() {
   gameMusic.pause();
   setTimeout(() => {
     waitingMusic.currentTime = 0;
-    waitingMusic.volume = 0.5;
+    waitingMusic.volume = 0.3;
     waitingMusic.play();
   }, 1000);
 }
@@ -578,6 +578,7 @@ function playAnimalSound(animal) {
       break;
     case "🐵":
       audio = new Audio("./assets/animal_sounds/monkey-2.wav");
+      audio.volume = 0.3;
       audio.play();
       break;
     case "🐔":
