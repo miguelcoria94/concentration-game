@@ -394,7 +394,6 @@ button:active {
   padding: 2rem;
 }
 
-
 @media (max-width: 768px) {
   .title__container {
     padding: 1rem;
@@ -410,11 +409,11 @@ button:active {
     top: 3rem;
   }
   .frame {
-    height: 130vh;
+    height: 101vh;
   }
 
   main {
-    height: 130vh;
+    height: 101vh;
   }
   button {
     font-size: 1rem;
@@ -488,6 +487,4 @@ button:active {
   }
 }
 
-
 /* phones */
-
