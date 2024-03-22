@@ -34,7 +34,7 @@ Link to dribble: [glass design idea](https://dribbble.com/shots/23007404-Glass-m
 - Animal Sound Effects
 - Timer
 - Ability to Win/Lose 
-- storing high school in local storage (fastest time)
+- Storing high score and highest streak in localstorage to preserver records
 
 
 ## Tools and Technologies Used
