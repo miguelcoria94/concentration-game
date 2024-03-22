@@ -11,6 +11,16 @@ An emoji matching game using Vanilla CSS, HTML and Javascript.
 
 Link to demo: [Play Now](https://miguelcoria94.github.io/concentration-game/)
 
+## Prototype
+
+<div id="header" align="center">
+
+  <img src="https://i.ibb.co/74w0S37/Screenshot-2024-03-21-at-11-27-54-PM.png" width="800" height="400">
+
+</div>
+
+## MVP
+
 <div id="header" align="center">
 
   <img src="https://i.ibb.co/NpHNdNg/Screenshot-2024-03-21-at-11-24-32-PM.png" width="800" height="400">
