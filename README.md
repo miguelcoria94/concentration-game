@@ -71,7 +71,7 @@ Link to dribble: [glass design idea](https://dribbble.com/shots/23007404-Glass-m
 
 <div id="header" align="center">
 
-  <img src="https://i.ibb.co/3fyB9Yz/carbon.png" width="800" height="400">
+  <img src="https://i.ibb.co/3fyB9Yz/carbon.png" width="800" height="auto">
 
 </div>
 
