@@ -1,7 +1,7 @@
 
-# Word Matching Game
+# Emoji Match
 
-A word matching game using Vanilla CSS, HTML and Javascript.
+An emoji matching game using Vanilla CSS, HTML and Javascript.
 
 
 
