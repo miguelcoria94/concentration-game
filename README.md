@@ -49,6 +49,8 @@ Link to dribble: [glass design idea](https://dribbble.com/shots/18593952-Wordie-
 Link to dribble: [glass design idea](https://dribbble.com/shots/23007404-Glass-morphism-UI)
 
 
+
+
 ## Features
 
 - Music
@@ -64,6 +66,16 @@ Link to dribble: [glass design idea](https://dribbble.com/shots/23007404-Glass-m
 - User Authentication
 - Leaderboards
 - Themes
+
+## Code Highlight
+
+<div id="header" align="center">
+
+  <img src="https://i.ibb.co/3fyB9Yz/carbon.png" width="800" height="400">
+
+</div>
+
+
 
 
 ## Tools and Technologies Used
