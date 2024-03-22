@@ -55,5 +55,3 @@ Link to dribble: [glass design idea](https://dribbble.com/shots/23007404-Glass-m
 **CSS Patterns** Bansal: [link to css patterns](https://bansal.io/pattern-css#font) 
 
 
-
-# concentration-game
