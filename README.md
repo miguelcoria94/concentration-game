@@ -13,7 +13,7 @@ Link to demo: [Play Now](https://miguelcoria94.github.io/concentration-game/)
 
 ## Prototype 
 
-Link to wireframe: [Play Now](https://docs.google.com/presentation/d/1uPQizDc5dfFJ2k7pPFBV19Wp6PXNSVmdmpL-EZ5O7RE/edit?usp=sharing)
+Link to wireframe: [View Now](https://docs.google.com/presentation/d/1uPQizDc5dfFJ2k7pPFBV19Wp6PXNSVmdmpL-EZ5O7RE/edit?usp=sharing)
 
 <div id="header" align="center">
 
