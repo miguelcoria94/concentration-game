@@ -393,3 +393,97 @@ button:active {
   align-items: center;
   padding: 2rem;
 }
+
+
+@media (max-width: 768px) {
+  .title__container {
+    padding: 1rem;
+  }
+
+  .title__text {
+    font-size: 4rem;
+    bottom: 5rem;
+  }
+
+  .title__highlight {
+    font-size: 2rem;
+    top: 3rem;
+  }
+  .frame {
+    height: 130vh;
+  }
+
+  main {
+    height: 130vh;
+  }
+  button {
+    font-size: 1rem;
+    width: 200px;
+    padding: 0.5em 0.5em;
+  }
+
+  .frame {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .frame__right-side {
+    padding-top: 2rem;
+  }
+
+  .frame__left-side {
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 15px;
+    padding-bottom: 3rem;
+  }
+
+  .frame__right-side {
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 15px;
+  }
+
+  .board {
+    padding: 1rem;
+  }
+
+  .board__row {
+    gap: 0.5rem;
+  }
+
+  .board__square {
+    width: 50px;
+    height: 50px;
+    font-size: 1.5rem;
+  }
+
+  .board__square-wrong {
+    width: 50px;
+    height: 50px;
+  }
+
+  .board__square-correct {
+    width: 50px;
+    height: 50px;
+  }
+
+  .modal__content {
+    padding: 2rem;
+  }
+
+  .modal__title {
+    font-size: 2rem;
+  }
+
+  .modal__text {
+    font-size: 0.8rem;
+  }
+
+  .modal__footer {
+    padding: 1rem;
+  }
+
+  .stats__container {
+    padding: 1rem;
+  }
+}
