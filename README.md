@@ -67,11 +67,21 @@ Link to dribble: [glass design idea](https://dribbble.com/shots/23007404-Glass-m
 - Leaderboards
 - Themes
 
-## Code Highlight
+## Title Text
 
 <div id="header" align="center">
 
   <img src="https://i.ibb.co/3fyB9Yz/carbon.png" width="800" height="auto">
+
+</div>
+
+## On Initial Load Animations
+
+
+
+<div id="header" align="center">
+
+  <img src="https://i.ibb.co/hd1yf1f/carbon-1.png" width="800" height="auto">
 
 </div>
 
