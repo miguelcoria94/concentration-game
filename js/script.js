@@ -37,8 +37,6 @@ const timeoutIDs = [];
 
 /*----- state variables 1st intialize state variables, global to the application -----*/
 
-
-
 let highScore = localStorage.getItem("highScore") || 0;
 if (highScore === 0) {
   localStorage.setItem("highScore", 0);
@@ -54,7 +52,7 @@ let currentStreak = 0;
 let attemptsLeft = 20;
 let gameStarted = false;
 let currentCards = [];
-let timeLeft = 10;
+let timeLeft = 240;
 let matchCount = 0;
 /*----- cached elements  -----*/
 
