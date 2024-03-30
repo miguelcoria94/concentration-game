@@ -54,7 +54,7 @@ let currentStreak = 0;
 let attemptsLeft = 20;
 let gameStarted = false;
 let currentCards = [];
-let timeLeft = 240;
+let timeLeft = 10;
 let matchCount = 0;
 /*----- cached elements  -----*/
 
@@ -319,6 +319,8 @@ function playRandomCorrectSoundEffect() {
 function applyCorrectCardClass() {
   currentScore += 100;
   currentStreak++;
+  // scale 110%
+  currentCards[0].style.transform = "scale(1.1)";
   currentCards[0].classList.add("is-flipped");
   currentCards[1].classList.add("is-flipped");
   currentCards[0].classList.add("animate__animated");
