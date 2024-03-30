@@ -136,6 +136,9 @@ function initialLoad() {
 }
 
 function init() {
+  cards.forEach((card) => {
+    card.setAttribute("tabindex", "0");
+  });
   clearTimeouts();
   playGameMusic();
   gameStarted = true;
